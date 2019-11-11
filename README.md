@@ -29,6 +29,6 @@ When you visit `"/name"` (ie: `"/randy"`), the greeting should personalize itsel
 
 ## Level 3: user submitted compliments
 
-Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using Postman or a form.
+Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using [Postman](https://www.getpostman.com/) or a form.
 
 How/where would you store these compliments?  Need a hint?  Try to look at [Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
