@@ -2,7 +2,7 @@
 
 ## Mission…
 
-Create your own version of Emergency Compliment using Express. When a user visits the site, they should be greeted with a SEI-themed compliment to cheer them up.
+Run `npm install` then Create your own version of Emergency Compliment using Express. When a user visits the site, they should be greeted with a SEI-themed compliment to cheer them up.
 
 
 ## Level 1: Generic Compliment

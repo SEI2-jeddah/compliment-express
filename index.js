@@ -13,7 +13,7 @@ compliments = [
 ];
 
 app.get("/", (req, res) => {
-  //display a generic greeting and a randomly chosen compliment. Th    e background color of the app should be randomized as well
+  //display a generic greeting and a randomly chosen compliment.
 });
 
 // Launch server
