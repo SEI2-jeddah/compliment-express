@@ -25,7 +25,7 @@ compliments = [
 
 ## Level 2: personalized compliment
 
-When you visit `"/name"` (ie: `"/randy"`), the greeting should personalize itself to the provided name. There should still be a random compliment.
+When you visit `"/name"` (ie: `"/yassir"`), the greeting should personalize itself to the provided name. There should still be a random compliment.
 
 ## Level 3: user submitted compliments
 
