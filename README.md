@@ -32,3 +32,16 @@ When you visit `"/name"` (ie: `"/yassir"`), the greeting should personalize itse
 Allow a user to add to the list of compliments using a POST request. You can submit POST requests to the app using [Postman](https://www.getpostman.com/) or a form.
 
 How/where would you store these compliments?  Need a hint?  Try to look at [Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
+
+---
+
+## Reminder
+Your opinion for this homework is very important! Please fill up the following questions when you pull request:
+ * on a scale from 1 to 5, how comfortable were you with this assignment?
+ * How long did it take?
+ * What was a challenge you had with this assignment?
+ * Is there anything that you'd like some further information on?
+ * Do you have any suggestions to improve this assignment?
+
+## Homework Submission
+https://github.com/SEI2-jeddah/General/tree/master/homework_submission
